@@ -1,0 +1,29 @@
+# Things TSQL can do that vanilla SQL can not do, or that TSQL does more elegantly
+
+## Procedural programming elements (!!!)
+- Control flow statements IF...ELSE, WHILE, CASE
+- Declare local variables
+
+## Stored Procedures and UDFs
+- Reusable code blocks and logic
+- UDF custom funtions to return scalar values or table data for reusable logic chunks
+
+## Error Handling
+- `TRY`...`CATCH` chunks to identify errors on run. *NEAT!*
+
+## Triggers
+- Stored procedures to atumoatically run on specific data modification events on a data table such as `INSERT`, `UPDATE`, `DELETE`
+
+## Enhanced Data Manipulation *Not THAT EDM!*
+- `OUTPUT` allows retrieval about rows affected by `INSERT`, `UPDATE`, or `DELETE` statements
+- `TOP` limits number of rows returned like `LIMIT` in SQL
+- `BULK INSERT` allows importing of large bulk data from external files
+- `UPDATE` and `DELETE` with `FROM` allows use of `JOIN` operations inside `UPDATE` and `DELETE` statements for complex filtering. *NEAT!*
+
+## Dynamic SQL
+- Allows for construciton and run of SQL astatements *at* runtime to make very flexible and dynamic queries. *NEAT!*
+
+## Specific Functions
+- Lots of specialized functions for mathmatical operations, string manipulation, date and time processing that are not part of vanilla SQL.
+- `ISNULL`, `SIGN`, `ROUND`
+- *NEAT!*
