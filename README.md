@@ -364,7 +364,7 @@ Add numbers when possible. Even rough ranges help.
 
 - 2025-11-25: Initial public-safe documentation of the process.
 
-- 2025-06-11: Added Review Guide and Skills Demonstrated table
+- 2026-06-11: Added Review Guide and Skills Demonstrated table
 
 ---
 
