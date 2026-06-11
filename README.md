@@ -1,3 +1,24 @@
+## Portfolio Review Guide
+
+If you are reviewing this as a portfolio project, start here:
+
+1. Read the Problem → Solution section.
+2. Review the Process Flow.
+3. Review Data Practices.
+4. Review Roadmap.
+5. Review what is intentionally withheld for privacy and security.
+
+## Skills Demonstrated
+
+| Area | Evidence |
+|---|---|
+| SQL reporting | Parameterized date logic, standardized outputs, clean joins |
+| Data governance | Definitions, repeatable exports, privacy boundaries |
+| Risk reduction | Reduced manual handling, fewer corrections, clearer accountability |
+| Executive communication | Supervisor one-pagers and executive snapshots |
+| Reproducible reporting | R, Quarto, CSV workflow, documented process |
+| Responsible AI use | AI-assisted design and debugging with human validation |
+
 # Operational_Reporting_From_TSQL
 
 ![Reports](https://img.shields.io/badge/Reports-Operational%20%26%20Executive-success)
